@@ -1,0 +1,2 @@
+# Referenced at /home/pravin/AndroidStudioProjects/iMessage/iMessage/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml:22
+-keep class io.flutter.app.FlutterApplication { <init>(); }
