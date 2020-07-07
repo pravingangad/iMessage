@@ -49,7 +49,6 @@ class _ChatScreenState extends State<ChatScreen> {
               onPressed: () {
                 _auth.signOut();
                 Navigator.pop(context);
-                messagesStream();
               }),
         ],
         title: Text('⚡️Chat'),
