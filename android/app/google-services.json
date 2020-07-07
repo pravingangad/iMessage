@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270349930008",
+    "firebase_url": "https://chat-app-dc8da.firebaseio.com",
+    "project_id": "chat-app-dc8da",
+    "storage_bucket": "chat-app-dc8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270349930008:android:d2b54fe6dfd0dda5f7fd6d",
+        "android_client_info": {
+          "package_name": "co.pravin.imessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270349930008-09jv4pqat34vo37le3vbrieqmob6ihig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MfRwEdZwkMuPCrmOlPLuf3uhcuobNrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270349930008-09jv4pqat34vo37le3vbrieqmob6ihig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
